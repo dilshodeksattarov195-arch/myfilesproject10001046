@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchretch",
+        "uuid": 8673432,
+        "checksum": "f8vnf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
